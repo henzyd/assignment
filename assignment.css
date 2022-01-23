@@ -1,5 +1,5 @@
 body{
-    background-image: url(bob.jpg);
+    background-image: url(windows-10-logo.jpeg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -12,5 +12,5 @@ body{
 }
 p{
     font-size: 25px;
-    color: black;
+    color: white;
 }
